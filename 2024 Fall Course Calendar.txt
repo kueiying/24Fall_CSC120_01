@@ -1,0 +1,52 @@
+[2024 Fall Course Calendar]
+
+1. 2024 Fall DBA120 course:
+   2024 Fall DBA120 begins on August 15, 2024 and ends on December 16, 2024.
+
+2. 2024 Fall DBA120 Course Schedule:
+  The introduction to Oracle Database SQL Programming One (consists of fourteen lessons within 16 weeks for the 2024 Fall semester):
+
+3. DBA120 Course Detail Schedule:
+
+
+  Week 01:  Oracle APEX/Workspace Account Creation (AUG 15 – AGU 21)
+
+  Week 02: Chap 01  Overview of Database Concepts and ER-Model (AUG 22 – AUG 28)
+
+  Week 03: Chap 02  Basic SQL SELECT Statements (AUG 29 – SEP 04)
+
+  Week 04: Chap 08  Restricting Rows and Sorting Data (SEP 05 – SEP 11)  
+
+  Week 05: Chap 03  Table Creation and Management (SEP 12 – SEP 18)
+
+  Week 06: Chap 04  Constraints (SEP 19 – SEP 25)
+
+  Week 07: Chap 05  Data Manipulation and Transaction Control (SEP 26 – OCT 02) 
+
+   Week 08:  Chap 06  Additional Database Objects (OCT 03– OCT 09)
+
+  Week 09: ** Midterm Test (OCT 10 – OCT 13) **
+
+  Week 10: Chap 09  Joining Data from Multiple Tables (OCT 14 – OCT 20)
+
+  Week 11: Chap 10  Select Single-Row Functions Par One (OCT 21 – OCT 27) 
+
+  Week 12: Chap 10 Select Single-Row Functions Par Two (OCT 28 – NOV 03)
+
+  Week 13: Chap 11  Group Functions  (NOV 04 – NOV 10)
+
+  Week 14: Chap 12  Subqueries and Merge statements (NOV 13 – NOV 19)
+
+  Week 15:  Chap 13  Views (NOV 20 – NOV 26)
+
+  ** Thanksgiving Holiday ** (NOV 27 – DEC 01) **
+
+  Week 16: Final Group Project (DEC 02 – DEC 09) 
+
+  **  Final Exam (DEC 10 – DEC 16) **
+
+  ~~ End of 2024  Fall Semester after DEC 16, 2024 ~~
+
+3. Ready to Start?
+
+Let's tightly work together to complete each week's course material learning, assignment working inside and outside classroom, and expect the best students' learning performance and outcome in our 2024 Fall DBA-120 course.
